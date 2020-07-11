@@ -8,9 +8,7 @@ An Automated Broadcasting Agent for Whatsapp-Web
     Pandas >= 1.0.0
     
 ## CSV Format
-    ```bash
     <name><number>
-    ```
 
 ## Installation
 
